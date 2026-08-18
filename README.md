@@ -21,7 +21,6 @@ A machine learning project that predicts customer conversion in digital marketin
 - [Model Evaluation Metrics](#-model-evaluation-metrics)
 - [Results Snapshot](#-results-snapshot)
 - [Key Insights](#-key-insights)
-- [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 
 </details>
@@ -199,10 +198,6 @@ Subsequent steps (7-11) apply hyperparameter search, probability calibration, th
 - Cost-benefit analysis (CPA, ROI, ad spend vs. conversion)
 - Customer retention signals (returning visitors, email engagement, repeat purchases)
 - Full model performance comparison, calibration quality, and stacked ensemble lift
-
-## 🤝 Contributing
-
-Contributions are welcome — feel free to open an issue or submit a pull request.
 
 ## 🙏 Acknowledgments
 
