@@ -157,16 +157,6 @@ The notebook provides comprehensive analysis including:
 
 
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-## 👤 Author
-
-**Ashwini**
-- GitHub: [@ashwini0008](https://github.com/ashwini0008)
 
 ##  Acknowledgments
 
